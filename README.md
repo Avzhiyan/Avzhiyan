@@ -1,4 +1,8 @@
-## Hello 👋 , I`m QA engineer
+## Hello 👋 
+### I`m a QA Engineer
+
+### My CV 
+[Link to my CV]()
 
 ### Languages and Tools
 ![Testing](https://img.shields.io/badge/-Testing-D3D3D3?style=for-the-badge&logo=testing&logocolor=008B8B)
@@ -7,23 +11,15 @@
 ![Testrail](https://img.shields.io/badge/-Testrail-D3D3D3?style=for-the-badge&logo=test&logocolor=008B8B)
 ![Jira](https://img.shields.io/badge/-Jira-D3D3D3?style=for-the-badge&logo=jira&logocolor=008B8B)
 ![Gitlab](https://img.shields.io/badge/-GitLab-D3D3D3?style=for-the-badge&logo=gitlab&logocolor=008B8B)
-![TeamCity](https://img.shields.io/badge/-TeamCity-D3D3D3?style=for-the-badge&logo=teamcity&logocolor=008B8B)
+![TeamCity](https://img.shields.io/badge/-TeamCity-D3D3D3?style=for-the-badge&logo=teamcity)
 ![Confluence](https://img.shields.io/badge/-Confluence-D3D3D3?style=for-the-badge&logo=confluence&logocolor=008B8B)
 ![Postman](https://img.shields.io/badge/-Postman-D3D3D3?style=for-the-badge&logo=postman&logocolor=008B8B)
 ![SQL](https://img.shields.io/badge/-SQL-D3D3D3?style=for-the-badge&logo=sql&logocolor=008B8B)
+![Devtools](https://img.shields.io/badge/-Devtools-D3D3D3?style=for-the-badge&logo=devtools&logocolor=008B8B)
 
-
-<!--
-**Avzhiyan/Avzhiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about I am top QA
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Testing Documentation
+- [Checklists]()
+- [Test-cases]()
+- [Bug-reports]()
+- [SQL Queries]()
+- [Postman Collections]()
