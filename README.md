@@ -1,4 +1,4 @@
-## Hello 👋, my name is Tatyana
+## Hello 👋, my name is Tatyana!
 ### I`m a QA Engineer
 
 ### My CV 
