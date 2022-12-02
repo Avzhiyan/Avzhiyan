@@ -1,6 +1,5 @@
 ## Hello 👋
-### My name is Tatyana
-### I`m a QA Engineer
+### My name is Tatyana. I`m a QA Engineer
 
 ### My CV 
 [Link to my CV]()
