@@ -23,5 +23,5 @@
 - [Checklists]()
 - [Test-cases]()
 - [Bug-reports]()
-- [SQL Queries]()
+- [SQL Queries](https://github.com/Avzhiyan/SQL-Queries)
 - [Postman Collections]()
