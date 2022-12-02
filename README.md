@@ -1,5 +1,6 @@
 ## Hello 👋
-### I`m Tatyana Avzhiyan, a QA Engineer from Russia
+### My name is Tatyana
+### I`m a QA Engineer
 
 ### My CV 
 [Link to my CV]()
