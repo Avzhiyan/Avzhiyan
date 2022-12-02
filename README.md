@@ -1,13 +1,15 @@
-## Hello 👋, my name is Tatyana!
-### I`m a QA Engineer
+## Hello 👋
+### I`m Tatyana Avzhiyan, a QA Engineer from Russia
 
 ### My CV 
 [Link to my CV]()
 
 ### Languages and Tools
-![Functional](https://img.shields.io/badge/-Functional-D3D3D3?style=for-the-badge&logo=EC5990)
+![Manual](https://img.shields.io/badge/-Manual_testing-FFD700?style=for-the-badge&logo=EC5990)
+![Functional](https://img.shields.io/badge/-Functional-FFD700?style=for-the-badge&logo=EC5990)
 ![Regression](https://img.shields.io/badge/-Regression-D3D3D3?style=for-the-badge&logo=EC5990)
 ![Testing](https://img.shields.io/badge/-Testing-D3D3D3?style=for-the-badge&logo=EC5990)
+![Manual](https://img.shields.io/badge/-Manual testing-D3D3D3?style=for-the-badge&logo=EC5990)
 ![Test-case](https://img.shields.io/badge/-Testcase-D3D3D3?style=for-the-badge&logo=check)
 ![Check-list](https://img.shields.io/badge/-Checklist-D3D3D3?style=for-the-badge&logo=checklist)
 ![Testrail](https://img.shields.io/badge/-Testrail-D3D3D3?style=for-the-badge&logo=test)
