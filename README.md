@@ -20,7 +20,7 @@
 ![Devtools](https://img.shields.io/badge/-Devtools-FFD700?style=for-the-badge&logo=google)
 
 ### Testing Documentation
-- [Checklists](https://github.com/Avzhiyan/Checklists
+- [Checklists](https://github.com/Avzhiyan/Checklists)
 - [Test-cases](https://github.com/Avzhiyan/Test-cases)
 - [Bug-reports](https://github.com/Avzhiyan/Bug-reports)
 - [SQL Queries](https://github.com/Avzhiyan/SQL-Queries)
