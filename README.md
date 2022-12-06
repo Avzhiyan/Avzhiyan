@@ -2,7 +2,7 @@
 ### My name is Tatyana. I`m a QA Engineer
 
 ### My CV 
-[Link to my CV]()
+[Link to my CV](https://drive.google.com/file/d/1DgbwkpeUcfJNmhpTAGCvnIu8WKHDzHWd/view?usp=sharing)
 
 ### Languages and Tools
 ![Manual](https://img.shields.io/badge/-Manual_testing-FFD700?style=for-the-badge&logo=EC5990)
