@@ -23,6 +23,5 @@
 - [Checklists](https://github.com/Avzhiyan/Checklists)
 - [Test-cases](https://github.com/Avzhiyan/Test-cases)
 - [Bug-reports](https://github.com/Avzhiyan/Bug-reports)
-- [TestPlan] (https://github.com/Avzhiyan/TestPlan)
 - [SQL Queries](https://github.com/Avzhiyan/SQL-Queries)
 - [Postman Collections](https://github.com/Avzhiyan/Postman-Collections)
